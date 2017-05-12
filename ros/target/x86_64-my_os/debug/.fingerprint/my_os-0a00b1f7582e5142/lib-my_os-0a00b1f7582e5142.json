@@ -1,0 +1,1 @@
+{"rustc":2702733009538735947,"features":"[]","target":7610738146696245848,"profile":731176819336294830,"deps":[["rlibc v1.0.0",7766136526191653673]],"local":{"MtimeBased":[[1494577881,529119405],"/home/yl/opt/ros/target/x86_64-my_os/debug/.fingerprint/my_os-0a00b1f7582e5142/dep-lib-my_os-0a00b1f7582e5142"]},"rustflags":["--sysroot","/home/yl/.xargo"]}
